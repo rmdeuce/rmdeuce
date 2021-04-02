@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif)](https://www.youtube.com/channel/UCl2vdvVMQ7XHH-hyUwBLJbg)
 
-About me
+## I'm beginner Software Engeneer and .NET Developer
 
 Languages and Tools
 
