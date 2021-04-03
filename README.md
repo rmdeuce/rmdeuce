@@ -4,7 +4,18 @@
 
 ## I'm beginner Software Engeneer and .NET Developer
 
-Languages and Tools
+### Languages and Tools
+![C#](https://img.shields.io/badge/-C_%23-2A9BD7?style=for-the-badge&logo=Sharp&logoColor=000000)
+![Java](https://img.shields.io/badge/-Java-2A9BD7?style=for-the-badge&logo=Java&logoColor=000000)
+![C++](https://img.shields.io/badge/-C++-2A9BD7?style=for-the-badge&logo=C%2B%2B&logoColor=000000)
+![.Net Core](https://img.shields.io/badge/-.Net_Core-2A9BD7?style=for-the-badge&logo=.NET&logoColor=000000)
+![ASP.Net Core](https://img.shields.io/badge/-ASP.Net_Core-2A9BD7?style=for-the-badge&logo=.NET&logoColor=000000)
+![EntityFramework](https://img.shields.io/badge/-Entity_Framework-2A9BD7?style=for-the-badge&logo=.net&logoColor=000000)
+![Blazor](https://img.shields.io/badge/-Blazor-2A9BD7?style=for-the-badge&logo=Blazor&logoColor=000000)
+![HTML](https://img.shields.io/badge/-HTML-2A9BD7?style=for-the-badge&logo=HTML5&logoColor=000000)
+![CSS](https://img.shields.io/badge/-CSS-2A9BD7?style=for-the-badge&logo=CSS&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2A9BD7?style=for-the-badge&logo=MongoDB&logoColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-2A9BD7?style=for-the-badge&logo=MySQL&logoColor=000000)
 
 Follow Me
 
