@@ -16,8 +16,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-2A9BD7?style=for-the-badge&logo=CSS&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2A9BD7?style=for-the-badge&logo=MongoDB&logoColor=000000)
 ![MySQL](https://img.shields.io/badge/-MySQL-2A9BD7?style=for-the-badge&logo=MySQL&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-2A9BD7?style=for-the-badge&logo=Git&logoColor=000000)
 
-Follow Me
+### Follow Me
+[![VKontakte](https://img.shields.io/badge/-VKontakte-2A9BD7?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/rmdeuce)
+[![Instagram](https://img.shields.io/badge/-Instagram-2A9BD7?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/rmdeuce)
+[![YouTube](https://img.shields.io/badge/-Youtube-2A9BD7?style=for-the-badge&logo=YouTube&logoColor=000000)](https://www.youtube.com/channel/UCl2vdvVMQ7XHH-hyUwBLJbg)
+
 
 <!--
 **RmDeuce/rmdeuce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
