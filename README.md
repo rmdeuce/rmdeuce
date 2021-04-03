@@ -19,6 +19,12 @@
 ![Git](https://img.shields.io/badge/-Git-2A9BD7?style=for-the-badge&logo=Git&logoColor=000000)
 ![JSon](https://img.shields.io/badge/-Json-2A9BD7?style=for-the-badge&logo=Json&logoColor=000000)
 
+![RmDeuce GitHub stats](https://github-readme-stats.vercel.app/api?username=rmdeuce&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdeuce)](https://github.com/rmdeuce)
+
+[![RmDeuce wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmdeuce)](https://github.com/rmdeuce)
+
 ### Follow Me
 [![VKontakte](https://img.shields.io/badge/-VKontakte-2A9BD7?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/rmdeuce)
 [![Instagram](https://img.shields.io/badge/-Instagram-2A9BD7?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/rmdeuce)
