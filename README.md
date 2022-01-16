@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif)](https://www.youtube.com/channel/UCl2vdvVMQ7XHH-hyUwBLJbg)
 
-## I'm beginner Software Engeneer and .NET Developer
+## I'm a begginer at Sofrware Engeneering and .NET development
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C_%23-2A9BD7?style=for-the-badge&logo=Sharp&logoColor=000000)
