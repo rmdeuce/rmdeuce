@@ -24,7 +24,7 @@
 ### Follow Me
 [![VKontakte](https://img.shields.io/badge/-VKontakte-2A9BD7?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/rmdeuce)
 [![Instagram](https://img.shields.io/badge/-Instagram-2A9BD7?style=for-the-badge&logo=Instagram&logoColor=000000)](https://www.instagram.com/rmdeuce)
-[![YouTube](https://img.shields.io/badge/-Youtube-2A9BD7?style=for-the-badge&logo=YouTube&logoColor=000000)](https://www.youtube.com/channel/UCl2vdvVMQ7XHH-hyUwBLJbg)
+
 
 
 
