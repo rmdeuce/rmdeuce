@@ -8,7 +8,7 @@
 ![C#](https://img.shields.io/badge/-C_%23-2A9BD7?style=for-the-badge&logo=Sharp&logoColor=000000)
 ![.Net](https://img.shields.io/badge/-.Net_Core-2A9BD7?style=for-the-badge&logo=.NET&logoColor=000000)
 ![Blazor](https://img.shields.io/badge/-Blazor-2A9BD7?style=for-the-badge&logo=Blazor&logoColor=000000)
-![C++](https://img.shields.io/badge/-C++-2A9BD7?style=for-the-badge&logo=C%2B%2B&logoColor=000000)
+![Java](https://ru.wikipedia.org/wiki/Java#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Java_logo.svg)
 ![HTML](https://img.shields.io/badge/-HTML-2A9BD7?style=for-the-badge&logo=HTML5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-2A9BD7?style=for-the-badge&logo=CSS&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2A9BD7?style=for-the-badge&logo=MongoDB&logoColor=000000)
