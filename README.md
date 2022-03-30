@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif)]
+![Header](https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif)
 
 ## I'm a begginer Sofrware Engeneer and .NET Developer
 
