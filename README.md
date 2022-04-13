@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 ![Header](https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif)
-
+</p>
 ## I'm a begginer Sofrware Engeneer and .NET Developer
 
 ### Languages and Tools
