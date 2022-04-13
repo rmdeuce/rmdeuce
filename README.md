@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
- <a> 
-  <img src="https://github.com/RmDeuce/rmdeuce/blob/main/assets/header.gif" />
- </a>
+  <img name = "Makkonahi" src="img/vikings.jpg">
 </p>
+
 
 ## I'm a begginer Sofrware Engeneer and .NET Developer
 
