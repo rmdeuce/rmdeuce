@@ -24,7 +24,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rmdeuce&show_icons=true&theme=tokyonight" alt="Github Stats" />
 </a>
 
-
+<a href="https://github.com/rmdeuce">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdeuce" />
+</a>
 
 ### Follow Me
 [![VKontakte](https://img.shields.io/badge/-VKontakte-2A9BD7?style=for-the-badge&logo=VK&logoColor=000000)](https://vk.com/rmdeuce)
