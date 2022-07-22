@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img name = "header" src="img/vikings.jpg">
+  <img name = "header" src="">
 </p>
 
 
