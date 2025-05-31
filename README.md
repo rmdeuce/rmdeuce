@@ -5,7 +5,7 @@
 </p>
 
 
-## I'm a beginner Software Engineer and .NET Developer
+## I'm a Software Engineer and .NET Developer
 
 ### Languages and Tools
 
