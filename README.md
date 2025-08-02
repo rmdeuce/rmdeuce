@@ -12,8 +12,6 @@
 ![C#](https://img.shields.io/badge/-C_%23-2A9BD7?style=for-the-badge&logo=Sharp&logoColor=000000)
 ![.Net](https://img.shields.io/badge/-.Net-2A9BD7?style=for-the-badge&logo=.NET&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2A9BD7?style=for-the-badge&logo=JavaScript&logoColor=000000)
-![Angular](https://img.shields.io/badge/-Angular-2A9BD7?style=for-the-badge&logo=Angular&logoColor=000000)
-![Blazor](https://img.shields.io/badge/-Blazor-2A9BD7?style=for-the-badge&logo=Blazor&logoColor=000000)
 ![HTML](https://img.shields.io/badge/-HTML-2A9BD7?style=for-the-badge&logo=HTML5&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-2A9BD7?style=for-the-badge&logo=CSS&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2A9BD7?style=for-the-badge&logo=MongoDB&logoColor=000000)
